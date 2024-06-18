@@ -4,10 +4,12 @@
   "description": "Projeto do curso avançado de Cypress da Escola TAT",
   "main": "index.js",
   "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
     "lint": "npx standard",
     "lint:fix": "npx standard --fix",
-    "test": "cypress run",
-    "cy:open": "cypress open"
+    "cy:open:mobile": "cypress open --config viewportWidth=410,viewportHeight=860",
+    "cy:run:mobile": "cypress run --config viewportWidth=410,viewportHeight=860"
   },
   "standard": {
     "globals": [
