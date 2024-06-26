@@ -1,0 +1,21 @@
+{
+    "hits": [
+        {
+            "title": "Fixtures e Cypress",
+            "url": "https://exmple.com/1",
+            "author":"Amanda Amaro",
+            "num_comments": "35",
+            "points":"45",
+            "objectID": 0
+        },
+        {
+            "title": "Entendendo Cypress",
+            "url": "https://exmple.com/2",
+            "author":"Cassio Cassiano",
+            "num_comments": "81",
+            "points":"35",
+            "objectID": 1
+        }
+
+    ]
+}

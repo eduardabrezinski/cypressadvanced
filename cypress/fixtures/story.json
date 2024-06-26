@@ -1,0 +1,45 @@
+{
+    "hits": [
+        {
+            "title": "Fixtures e Cypress",
+            "url": "https://exmple.com/1",
+            "author":"Amanda Amaro",
+            "num_comments": "35",
+            "points":"45",
+            "objectID": 0
+        },
+        {
+            "title": "Entendendo Cypress",
+            "url": "https://exmple.com/2",
+            "author":"Cassio Cassiano",
+            "num_comments": "81",
+            "points":"35",
+            "objectID": 1
+        },     
+        {
+            "title": "Cypress uma nova visão",
+            "url": "https://exmple.com/3",
+            "author":"Cassia Herculano",
+            "num_comments": "101",
+            "points":"53",
+            "objectID": 2
+        },
+        {
+            "title": "SQL e Cypress",
+            "url": "https://exmple.com/4",
+            "author":"Mario Marte",
+            "num_comments": "65",
+            "points":"73",
+            "objectID": 3
+        },
+        {
+            "title": "Aprendendo Cypress",
+            "url": "https://exmple.com/5",
+            "author":"Carla Menezes",
+            "num_comments": "48",
+            "points":"34",
+            "objectID": 4
+        }
+
+    ]
+}
